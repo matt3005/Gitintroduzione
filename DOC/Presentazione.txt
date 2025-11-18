@@ -1,0 +1,4 @@
+Nome: Matteo
+Cognome: Casula
+GP1
+Gioco preferito: Silksong
